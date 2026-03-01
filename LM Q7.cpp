@@ -12,7 +12,7 @@
 
   fahrenheit = (9/5 * celsius)+32;
 
-  cout<<"The temperature in celsius:"<<fahrenheit;
+  cout<<"The temperature in fahrenheit:"<<fahrenheit;
   return 0;
 
 
