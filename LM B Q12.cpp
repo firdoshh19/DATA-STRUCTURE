@@ -5,7 +5,7 @@ where 𝑟 is the radius of the circle and pi = 3.14159.*/
 #include<iostream>
 using namespace std;
 int main (){
-    float area,circumference,radius,pi,r3;
+    float area,circumference,radius,pi;
     pi=3.14159;
 
     cout<<"Enter radius of circle: ";
