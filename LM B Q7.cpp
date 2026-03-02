@@ -8,6 +8,6 @@ verting a float value into an integer and displaying both values.*/
         int result;
 
         result = (int)a;
-        cout<<"Result"<<result;
+cout<<"Original"<<a;        cout<<"Result"<<result;
     }
 
